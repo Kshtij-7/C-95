@@ -1,0 +1,1 @@
+"https://kwitter-72e6d-default-rtdb.asia-southeast1.firebasedatabase.app"
